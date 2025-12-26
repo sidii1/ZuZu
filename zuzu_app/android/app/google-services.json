@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000715349254",
+    "project_id": "zuzu-696969",
+    "storage_bucket": "zuzu-696969.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000715349254:android:dd0abac12b1dba218dc287",
+        "android_client_info": {
+          "package_name": "com.example.zuzu_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIKtRJ6ghO9kMz6Tv3C31fwzUcw6CLkT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
